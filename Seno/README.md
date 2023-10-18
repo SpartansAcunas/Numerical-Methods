@@ -1,5 +1,5 @@
-# Algorithm for Calculating sen(x) using a Series
+# MATLAB Script for Calculating sen(x)
 
 ## Introduction
 
-This MATLAB script aims to calculate the value of `sen(x)` using a mathematical series. It provides an algorithm that defines the `sen(x)` function using the Taylor series expansion. Additionally, it includes pseudocode and a flowchart to represent the process.
+This MATLAB script calculates the value of `sen(x)` using a series expansion. It provides an algorithm that approximates the sine function and calculates the relative error. The script takes user inputs for the maximum exponent 'n' and the value of 'x'.
